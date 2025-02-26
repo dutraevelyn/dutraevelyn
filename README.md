@@ -1,8 +1,8 @@
 ## Olá!👋 I'm Evelyn!
 
-- 🌱 Cursando Bacharel em Ciência da Computação e estudando Front-end
-- 📫 Contate-me no meu e-mail: evelyndutra.dev@gmail.com
-- 😄 Pronomes: Ela/dela
+- 👔 Product Owner Junior 
+- 🎓 Cursando Bacharel em Ciência da Computação
+- 📫 Contate-me no meu e-mail: contatoevelynpo@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Eve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
